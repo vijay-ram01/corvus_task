@@ -137,19 +137,6 @@
             </plugin>
 
             <plugin>
-                <groupId>dev.hilla</groupId>
-                <artifactId>hilla-maven-plugin</artifactId>
-                <version>${hilla.version}</version>
-                <executions>
-                    <execution>
-                        <goals>
-                            <goal>prepare-frontend</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
-
-            <plugin>
                 <groupId>com.vaadin</groupId>
                 <artifactId>vaadin-maven-plugin</artifactId>
                 <version>24.0.0</version>
