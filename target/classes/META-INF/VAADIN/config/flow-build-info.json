@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/vijay/Documents/Corvus/wireframe_task/todo",
+  "node.version": "v18.14.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/Users/vijay/Documents/Corvus/wireframe_task/todo/target/frontend",
+  "frontendFolder": "/Users/vijay/Documents/Corvus/wireframe_task/todo/frontend",
+  "connect.javaSourceFolder": "/Users/vijay/Documents/Corvus/wireframe_task/todo/src/main/java",
+  "javaResourceFolder": "/Users/vijay/Documents/Corvus/wireframe_task/todo/src/main/resources",
+  "connect.applicationProperties": "/Users/vijay/Documents/Corvus/wireframe_task/todo/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/vijay/Documents/Corvus/wireframe_task/todo/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/vijay/Documents/Corvus/wireframe_task/todo/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

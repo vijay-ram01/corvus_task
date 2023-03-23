@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/Users/vijay/Documents/Corvus/wireframe_task/todo/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/vijay/Documents/Corvus/wireframe_task/todo/frontend/generated/jar-resources",
+  "staticOutput": "/Users/vijay/Documents/Corvus/wireframe_task/todo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/vijay/Documents/Corvus/wireframe_task/todo/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/vijay/Documents/Corvus/wireframe_task/todo/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/vijay/Documents/Corvus/wireframe_task/todo/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/vijay/Documents/Corvus/wireframe_task/todo/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/vijay/Documents/Corvus/wireframe_task/todo/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "todo",
+  "clientServiceWorkerSource": "/Users/vijay/Documents/Corvus/wireframe_task/todo/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
